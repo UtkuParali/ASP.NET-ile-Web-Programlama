@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utku\\Desktop\\ASP.NET ile Web Programlama\\4.B\u00F6l\u00FCm\\ContactApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B19D52E4-373A-4D62-B57E-AB247738F5E3}|ContactApp.csproj|c:\\users\\utku\\desktop\\asp.net ile web programlama\\4.b\u00F6l\u00FCm\\contactapp\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B19D52E4-373A-4D62-B57E-AB247738F5E3}|ContactApp.csproj|solutionrelative:views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B19D52E4-373A-4D62-B57E-AB247738F5E3}|ContactApp.csproj|c:\\users\\utku\\desktop\\asp.net ile web programlama\\4.b\u00F6l\u00FCm\\contactapp\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B19D52E4-373A-4D62-B57E-AB247738F5E3}|ContactApp.csproj|solutionrelative:controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 191,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1361120:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\ASP.NET ile Web Programlama\\4.B\u00F6l\u00FCm\\ContactApp\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\ASP.NET ile Web Programlama\\4.B\u00F6l\u00FCm\\ContactApp\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-13T10:01:03.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\Utku\\Desktop\\ASP.NET ile Web Programlama\\4.B\u00F6l\u00FCm\\ContactApp\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\Utku\\Desktop\\ASP.NET ile Web Programlama\\4.B\u00F6l\u00FCm\\ContactApp\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-13T10:00:55.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
